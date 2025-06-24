@@ -9,8 +9,8 @@ var simplemaps_usmap_mapdata={
     
 		//State defaults
 		state_description: "",
-    state_color: "#88A4BC",
-    state_hover_color: "#3B729F",
+    state_color: "#5BCEFA",
+    state_hover_color: "#F5A9B8",
     state_url: '',
     border_size: 1.5,
     all_states_inactive: "no",
@@ -63,7 +63,7 @@ var simplemaps_usmap_mapdata={
 		//Advanced settings
 		div: "map",
     auto_load: "yes",
-    url_new_tab: "no",
+    url_new_tab: "yes",
     images_directory: "default",
     fade_time: 0.1,
     link_text: "View Website"
@@ -85,7 +85,7 @@ var simplemaps_usmap_mapdata={
     },
     FL: {
       name: "Florida",
-      description: "default",
+      description: "The Sunshine State has a lot. to offer",
       color: "default",
       hover_color: "default",
       url: "default",
